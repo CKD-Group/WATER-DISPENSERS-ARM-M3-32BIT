@@ -1,0 +1,3 @@
+../Core/Src/error_log.c:12:6:ErrorLog_Add	1
+../Core/Src/error_log.c:27:13:ErrorLog_Get	2
+../Core/Src/error_log.c:36:6:ErrorLog_DisplayViaLED	3

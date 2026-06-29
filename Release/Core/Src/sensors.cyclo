@@ -1,0 +1,9 @@
+../Core/Src/sensors.c:31:6:Sensors_Init	1
+../Core/Src/sensors.c:45:9:Sensors_IsDoorClosed	1
+../Core/Src/sensors.c:55:9:Sensors_IsDoorClosedRaw	1
+../Core/Src/sensors.c:75:9:Sensors_IsTankFull	1
+../Core/Src/sensors.c:80:9:Sensors_IsTankEmpty	1
+../Core/Src/sensors.c:90:9:Sensors_IsOverflow	1
+../Core/Src/sensors.c:114:15:Sensors_ReadWaterLevelRaw	1
+../Core/Src/sensors.c:125:15:Sensors_DebouncedRead	2
+../Core/Src/sensors.c:145:9:Sensors_SelfTest	2

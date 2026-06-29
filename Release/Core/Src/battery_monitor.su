@@ -1,0 +1,2 @@
+../Core/Src/battery_monitor.c:55:10:Battery_GetVoltage_mV	0	static
+../Core/Src/battery_monitor.c:56:6:Battery_Check	0	static

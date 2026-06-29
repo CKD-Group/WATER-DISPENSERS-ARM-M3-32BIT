@@ -1,0 +1,2 @@
+../Core/Src/config_storage.c:22:19:Config_Save	4
+../Core/Src/config_storage.c:69:19:Config_Restore	1

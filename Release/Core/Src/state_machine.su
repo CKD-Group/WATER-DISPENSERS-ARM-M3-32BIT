@@ -1,0 +1,11 @@
+../Core/Src/state_machine.c:621:13:UpdatePumpStatistics	8	static
+../Core/Src/state_machine.c:274:16:CheckSafetyConditions	8	static
+../Core/Src/state_machine.c:256:13:EnterState	16	static
+../Core/Src/state_machine.c:54:15:StateMachine_GetState	0	static
+../Core/Src/state_machine.c:64:9:StateMachine_GetErrorCode	0	static
+../Core/Src/state_machine.c:74:6:StateMachine_UpdateLEDs	16	static
+../Core/Src/state_machine.c:34:6:StateMachine_Init	0	static
+../Core/Src/state_machine.c:211:16:StateMachine_GetStats	0	static
+../Core/Src/state_machine.c:221:6:StateMachine_ResetError	0	static
+../Core/Src/state_machine.c:158:6:StateMachine_Process	24	static
+../Core/Src/state_machine.c:234:13:StateMachine_GetStateName	0	static

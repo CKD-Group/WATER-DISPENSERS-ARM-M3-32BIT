@@ -1,0 +1,2 @@
+../Core/Src/remote_monitor.c:44:6:Remote_Init	0	static
+../Core/Src/remote_monitor.c:45:6:Remote_SendStatus	0	static
